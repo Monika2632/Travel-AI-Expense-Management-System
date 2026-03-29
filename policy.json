@@ -1,0 +1,12 @@
+{
+  "CFO": {
+    "taxi": 3000,
+    "hotel_min": 12000,
+    "hotel_max": 20000
+  },
+  "Senior Manager": {
+    "taxi": 2000,
+    "hotel_min": 8000,
+    "hotel_max": 12000
+  }
+}
